@@ -4,8 +4,6 @@
 
 ## Comunicate conmigo
 
-## hobbies
-    - Escribir poemas
     
 ## technologies
     - Comenzamos con la barra de tecnología
@@ -13,3 +11,4 @@
 ## skills
     - Resolveremos problemas
     - Velocidad de calculo
+
