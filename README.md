@@ -4,11 +4,6 @@
 
 ## Comunicate conmigo
 
-    
-## technologies
-    - Comenzamos con la barra de tecnología
 
-## skills
-    - Resolveremos problemas
-    - Velocidad de calculo
-
+## hobbies
+    -Leer libros
