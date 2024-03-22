@@ -8,3 +8,4 @@
 -Ingles
 -Español
 -Francés
+-Italiano
