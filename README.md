@@ -5,10 +5,18 @@
 ## Comunicate conmigo
 
 
+
 ## skills
     -Dominar la oratoria en público
 
 
 ## hobbies
     -Leer libros
+
+
+## Idiomas
+-Ingles
+-Español
+-Francés
+-Italiano
 
