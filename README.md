@@ -5,5 +5,10 @@
 ## Comunicate conmigo
 
 
+## skills
+    -Dominar la oratoria en público
+
+
 ## hobbies
     -Leer libros
+
